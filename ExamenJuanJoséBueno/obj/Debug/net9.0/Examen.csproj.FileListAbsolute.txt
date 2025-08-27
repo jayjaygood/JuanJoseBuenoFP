@@ -1,0 +1,100 @@
+/Users/jorge/Examen/Examen/bin/Debug/net9.0/appsettings.Development.json
+/Users/jorge/Examen/Examen/bin/Debug/net9.0/appsettings.json
+/Users/jorge/Examen/Examen/bin/Debug/net9.0/Examen.staticwebassets.endpoints.json
+/Users/jorge/Examen/Examen/bin/Debug/net9.0/Examen
+/Users/jorge/Examen/Examen/bin/Debug/net9.0/Examen.deps.json
+/Users/jorge/Examen/Examen/bin/Debug/net9.0/Examen.runtimeconfig.json
+/Users/jorge/Examen/Examen/bin/Debug/net9.0/Examen.dll
+/Users/jorge/Examen/Examen/bin/Debug/net9.0/Examen.pdb
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/Examen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/Examen.AssemblyInfoInputs.cache
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/Examen.AssemblyInfo.cs
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/Examen.csproj.CoreCompileInputs.cache
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/Examen.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/scopedcss/bundle/Examen.styles.css
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/staticwebassets.build.json
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/staticwebassets.development.json
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/Examen.dll
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/refint/Examen.dll
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/Examen.pdb
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/Examen.genruntimeconfig.cache
+/Users/jorge/Examen/Examen/obj/Debug/net9.0/ref/Examen.dll
+/Users/jorge/Desktop/Examen/bin/Debug/net9.0/appsettings.Development.json
+/Users/jorge/Desktop/Examen/bin/Debug/net9.0/appsettings.json
+/Users/jorge/Desktop/Examen/bin/Debug/net9.0/Examen.staticwebassets.endpoints.json
+/Users/jorge/Desktop/Examen/bin/Debug/net9.0/Examen
+/Users/jorge/Desktop/Examen/bin/Debug/net9.0/Examen.deps.json
+/Users/jorge/Desktop/Examen/bin/Debug/net9.0/Examen.runtimeconfig.json
+/Users/jorge/Desktop/Examen/bin/Debug/net9.0/Examen.dll
+/Users/jorge/Desktop/Examen/bin/Debug/net9.0/Examen.pdb
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/Examen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/Examen.AssemblyInfoInputs.cache
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/Examen.AssemblyInfo.cs
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/Examen.csproj.CoreCompileInputs.cache
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/Examen.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/scopedcss/bundle/Examen.styles.css
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/staticwebassets.build.json
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/staticwebassets.development.json
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/Examen.dll
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/refint/Examen.dll
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/Examen.pdb
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/Examen.genruntimeconfig.cache
+/Users/jorge/Desktop/Examen/obj/Debug/net9.0/ref/Examen.dll
+/Users/jorge/Desktop/Examen JuanJoséBueno/bin/Debug/net9.0/appsettings.Development.json
+/Users/jorge/Desktop/Examen JuanJoséBueno/bin/Debug/net9.0/appsettings.json
+/Users/jorge/Desktop/Examen JuanJoséBueno/bin/Debug/net9.0/Examen.staticwebassets.endpoints.json
+/Users/jorge/Desktop/Examen JuanJoséBueno/bin/Debug/net9.0/Examen
+/Users/jorge/Desktop/Examen JuanJoséBueno/bin/Debug/net9.0/Examen.dll
+/Users/jorge/Desktop/Examen JuanJoséBueno/bin/Debug/net9.0/Examen.pdb
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/Examen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/Examen.AssemblyInfoInputs.cache
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/Examen.AssemblyInfo.cs
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/Examen.csproj.CoreCompileInputs.cache
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/Examen.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/scopedcss/bundle/Examen.styles.css
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/staticwebassets.build.json
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/staticwebassets.development.json
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/Examen.dll
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/refint/Examen.dll
+/Users/jorge/Desktop/Examen JuanJoséBueno/obj/Debug/net9.0/Examen.pdb
+/Users/jorge/Desktop/ExamenJuanJoséBueno/bin/Debug/net9.0/appsettings.Development.json
+/Users/jorge/Desktop/ExamenJuanJoséBueno/bin/Debug/net9.0/appsettings.json
+/Users/jorge/Desktop/ExamenJuanJoséBueno/bin/Debug/net9.0/Examen.staticwebassets.endpoints.json
+/Users/jorge/Desktop/ExamenJuanJoséBueno/bin/Debug/net9.0/Examen
+/Users/jorge/Desktop/ExamenJuanJoséBueno/bin/Debug/net9.0/Examen.dll
+/Users/jorge/Desktop/ExamenJuanJoséBueno/bin/Debug/net9.0/Examen.pdb
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/Examen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/Examen.AssemblyInfoInputs.cache
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/Examen.AssemblyInfo.cs
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/Examen.csproj.CoreCompileInputs.cache
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/Examen.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/scopedcss/bundle/Examen.styles.css
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/staticwebassets.build.json
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/staticwebassets.development.json
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/Examen.dll
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/refint/Examen.dll
+/Users/jorge/Desktop/ExamenJuanJoséBueno/obj/Debug/net9.0/Examen.pdb
