@@ -1,0 +1,27 @@
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/bin/Debug/net9.0/appsettings.Development.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/bin/Debug/net9.0/appsettings.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/bin/Debug/net9.0/9.D Ejercicios While Clase.staticwebassets.endpoints.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/bin/Debug/net9.0/9.D Ejercicios While Clase
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/bin/Debug/net9.0/9.D Ejercicios While Clase.deps.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/bin/Debug/net9.0/9.D Ejercicios While Clase.runtimeconfig.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/bin/Debug/net9.0/9.D Ejercicios While Clase.dll
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/bin/Debug/net9.0/9.D Ejercicios While Clase.pdb
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/9.D Ejercicios While Clase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/9.D Ejercicios While Clase.AssemblyInfoInputs.cache
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/9.D Ejercicios While Clase.AssemblyInfo.cs
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/9.D Ejercicios While Clase.csproj.CoreCompileInputs.cache
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/9.D Ejercicios While Clase.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/scopedcss/bundle/9.D Ejercicios While Clase.styles.css
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/staticwebassets.build.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/staticwebassets.development.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/9.D Ejercicios While Clase.dll
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/refint/9.D Ejercicios While Clase.dll
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/9.D Ejercicios While Clase.pdb
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/9.D Ejercicios While Clase.genruntimeconfig.cache
+/Users/jorge/Desktop/9.D Ejercicios While Clase/9.D Ejercicios While Clase/obj/Debug/net9.0/ref/9.D Ejercicios While Clase.dll
