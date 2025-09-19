@@ -1,0 +1,27 @@
+/Users/jorge/Desktop/Examen 2/Examen 2/bin/Debug/net9.0/appsettings.Development.json
+/Users/jorge/Desktop/Examen 2/Examen 2/bin/Debug/net9.0/appsettings.json
+/Users/jorge/Desktop/Examen 2/Examen 2/bin/Debug/net9.0/Examen 2.staticwebassets.endpoints.json
+/Users/jorge/Desktop/Examen 2/Examen 2/bin/Debug/net9.0/Examen 2
+/Users/jorge/Desktop/Examen 2/Examen 2/bin/Debug/net9.0/Examen 2.deps.json
+/Users/jorge/Desktop/Examen 2/Examen 2/bin/Debug/net9.0/Examen 2.runtimeconfig.json
+/Users/jorge/Desktop/Examen 2/Examen 2/bin/Debug/net9.0/Examen 2.dll
+/Users/jorge/Desktop/Examen 2/Examen 2/bin/Debug/net9.0/Examen 2.pdb
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/Examen 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/Examen 2.AssemblyInfoInputs.cache
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/Examen 2.AssemblyInfo.cs
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/Examen 2.csproj.CoreCompileInputs.cache
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/Examen 2.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/scopedcss/bundle/Examen 2.styles.css
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/staticwebassets.build.json
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/staticwebassets.development.json
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/Examen 2.dll
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/refint/Examen 2.dll
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/Examen 2.pdb
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/Examen 2.genruntimeconfig.cache
+/Users/jorge/Desktop/Examen 2/Examen 2/obj/Debug/net9.0/ref/Examen 2.dll
