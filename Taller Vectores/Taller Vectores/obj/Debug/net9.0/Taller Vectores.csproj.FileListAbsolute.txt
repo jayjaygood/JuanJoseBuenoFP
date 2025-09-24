@@ -1,0 +1,27 @@
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/bin/Debug/net9.0/appsettings.Development.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/bin/Debug/net9.0/appsettings.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/bin/Debug/net9.0/Taller Vectores.staticwebassets.endpoints.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/bin/Debug/net9.0/Taller Vectores
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/bin/Debug/net9.0/Taller Vectores.deps.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/bin/Debug/net9.0/Taller Vectores.runtimeconfig.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/bin/Debug/net9.0/Taller Vectores.dll
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/bin/Debug/net9.0/Taller Vectores.pdb
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/Taller Vectores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/Taller Vectores.AssemblyInfoInputs.cache
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/Taller Vectores.AssemblyInfo.cs
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/Taller Vectores.csproj.CoreCompileInputs.cache
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/Taller Vectores.MvcApplicationPartsAssemblyInfo.cache
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/scopedcss/bundle/Taller Vectores.styles.css
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/staticwebassets.build.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/staticwebassets.development.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/Taller Vectores.dll
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/refint/Taller Vectores.dll
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/Taller Vectores.pdb
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/Taller Vectores.genruntimeconfig.cache
+/Users/jorge/Desktop/Taller Vectores/Taller Vectores/obj/Debug/net9.0/ref/Taller Vectores.dll
